@@ -1,0 +1,35 @@
+{
+  "name": "foundervision-token",
+  "version": "1.0.0",
+  "description": "Foundervision Token",
+  "main": "truffle.js",
+  "keywords": [
+    "solidity",
+    "ethereum",
+    "smart",
+    "contract",
+    "security",
+    "truffle",
+    "zeppelin",
+    "vision",
+    "coin",
+    "token",
+    "foundervision"
+  ],
+  "directories": {
+    "test": "test"
+  },
+  "authors": [
+    "Benjamin Ansbach <benjamin.ansbach@zandura.net>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "bignumber.js": "^4.0.4",
+    "bip39": "^2.4.0",
+    "ethereumjs-wallet": "^0.6.0",
+    "truffle-hdwallet-provider": "0.0.3",
+    "web3": "^0.18.4",
+    "web3-provider-engine": "^13.3.1",
+    "zeppelin-solidity": "^1.2.0"
+  }
+}
